@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#https://exercism.org/tracks/bash/exercises/error-handling/edit
+echo "Hello, $1"
